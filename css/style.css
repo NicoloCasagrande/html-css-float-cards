@@ -54,3 +54,13 @@ header{
 .text{
     text-align: center;
 }
+
+.riga{
+    width: 100%;
+}
+
+.elemento{
+    float: left;
+    width: calc(33.3% - 30px);
+    margin: 0 15px;
+}
