@@ -74,7 +74,7 @@ header{
 
 .elemento{
     float: left;
-    width: calc(33.33% - 30px);
+    width: calc(33.33% - 20px);
     margin: 10px;
     background-color: #0f0e17;
     color: white;
@@ -92,7 +92,7 @@ header{
 .info-persona{
     float: left;
     padding: 10px 10px;
-    width: calc(70%);
+    width: 70%;
     height: calc(100% - 20px);
     line-height: 23px;
 }
